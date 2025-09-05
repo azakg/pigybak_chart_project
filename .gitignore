@@ -1,0 +1,10 @@
+# build artifacts
+interns_map.html
+interns_by_state.csv
+geo_cache.csv
+overrides.csv
+*.xlsx
+*.xls
+*.csv
+.env
+
