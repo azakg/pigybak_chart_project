@@ -23,7 +23,7 @@ from geopy.geocoders import Nominatim
 from geopy.extra.rate_limiter import RateLimiter
 
 # ========= CONFIG =========
-SOURCE = "https://docs.google.com/spreadsheets/d/11AtmB1GwFksdhOL7-34Tgix--Ow2ZlMlPyRkB5bfR50/export?format=csv&gid=0"
+SOURCE = "Put_Doc_link_here"
 SHEET: Optional[str] = None
 
 FIRST_NAME_COL   = "First Name"
