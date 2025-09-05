@@ -1,11 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Intern map with state bubbles (#7FD858) + university points.
-- Keeps only rows with Accept Date present and not containing 'declin'
-- Geocodes by University/School with robust retries/timeouts and country fallbacks
-- Non-US universities appear as point markers but are excluded from US state bubble counts
-- Caches geocoding results to geo_cache.csv
-"""
+
 
 import io
 import re
